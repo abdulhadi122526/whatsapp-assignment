@@ -243,3 +243,13 @@ h4:hover,h3:hover{
     cursor: pointer;
     border-bottom: 1px solid #d4d4d4;
 }
+
+::-webkit-scrollbar{
+    width: 7px;
+    
+}
+::-webkit-scrollbar-thumb{
+    background-color: #b4b4b4;
+    border-radius: 10px;
+}
+
